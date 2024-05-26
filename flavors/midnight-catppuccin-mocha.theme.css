@@ -1,7 +1,7 @@
 /**
  * @name midnight (catppuccin mocha)
  * @description A dark, rounded discord theme. Based on catppuccin mocha theme (https://github.com/catppuccin/catppuccin).
- * @author refact0r
+ * @author refact0r, esme, anubis -> refactored by Niz
  * @version 1.6.2
  * @invite nz87hXyvcy
  * @website https://github.com/refact0r/midnight-discord
@@ -17,10 +17,11 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'figtree';
+	--font: 'Maple Mono NF', 'Maple Mono', 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New',
+		monospace;
 
 	/* top left corner text */
-	--corner-text: 'Catppuccin';
+	--corner-text: 'Niz';
 
 	/* color of status indicators and window controls */
 	--online-indicator: #a6e3a1; /* change to #23a55a for default green */
@@ -86,9 +87,9 @@
 	--blurple-to-accent-3-filter: none; /* add friend page school icon */
 }
 
-/* catppuccin icon */
+/* bocchi icon */
 .childWrapper_a6ce15:has(> svg:not(.favoriteIcon_adf80e)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+	background: url('https://files.catbox.moe/yfl90d.png');
 	background-color: transparent !important;
 	background-size: cover;
 }

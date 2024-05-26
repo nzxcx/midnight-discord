@@ -1,7 +1,7 @@
 /**
  * @name midnight (catppuccin macchiato)
  * @description A dark, rounded discord theme. Based on catppuccin macchiato theme (https://github.com/catppuccin/catppuccin).
- * @author refact0r, esme, anubis
+ * @author refact0r, esme, anubis -> refactored by Niz
  * @version 1.6.2
  * @invite nz87hXyvcy
  * @website https://github.com/refact0r/midnight-discord
@@ -21,7 +21,7 @@
 		monospace;
 
 	/* top left corner text */
-	--corner-text: 'Nizaeh';
+	--corner-text: 'Niz';
 
 	/* color of status indicators and window controls */
 	--online-indicator: #a6da95; /* change to #23a55a for default green */
@@ -87,7 +87,8 @@
 	--blurple-to-accent-3-filter: none; /* add friend page school icon */
 }
 
-bocchi icon */ .childWrapper_a6ce15:has(> svg:not(.favoriteIcon_adf80e)) {
+/* bocchi icon */
+.childWrapper_a6ce15:has(> svg:not(.favoriteIcon_adf80e)) {
 	background: url('https://files.catbox.moe/yfl90d.png');
 	background-color: transparent !important;
 	background-size: cover;
