@@ -88,7 +88,7 @@
 }
 
 /* bocchi icon */
-.childWrapper_a6ce15:has(> svg:not(.favoriteIcon_adf80e)) {
+.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
 	background: url('https://files.catbox.moe/yfl90d.png');
 	background-color: transparent !important;
 	background-size: cover;
