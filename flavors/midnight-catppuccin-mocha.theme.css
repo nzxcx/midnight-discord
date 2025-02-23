@@ -17,7 +17,7 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'Karla', 'JetBrainsMono Nerd Font', 'JetBrains Mono',  'Cartograph CF', 'Maple Mono NF', 'Maple Mono', 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New',
+	--font: 'IA Writer Mono', 'Karla', 'JetBrainsMono Nerd Font', 'JetBrains Mono',  'Cartograph CF', 'Maple Mono NF', 'Maple Mono', 'Fira Code', 'Cascadia Code', 'Consolas', 'Courier New',
 		monospace;
 
 	/* top left corner text */
